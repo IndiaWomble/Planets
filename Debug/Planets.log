@@ -1,0 +1,16 @@
+﻿  Source.cpp
+d:\games\c++ games\planets\planets\angel.h(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\games\c++ games\planets\planets\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\games\c++ games\planets\planets\source.cpp(43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Planets.vcxproj -> D:\Games\C++ games\Planets\Debug\Planets.exe
